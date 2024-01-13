@@ -30,3 +30,30 @@ predict the target variable Rain_Tomorrow the column which are the input are as 
         Temp3pm : Temperature also varies fom 6 hours time stamp
         RainToday : Rain Today is helpful to predict either its going to rai tomorrow.
         RainTomorrow : Rain Tomorrow is our target variable to predict the rain in Australia by using above given features.
+        
+# 2. Ninjacart
+
+## Problem Statement
+        • Ninjacart, India's major fresh produce supply chain company, addresses global supply chain challenges using innovative technology, efficiently delivering fresh produce from farmers to businesses within 
+         12 hours.
+        
+        • Ninjacart provides a dataset comprising images of onions, potatoes, tomatoes, and market scenes. Our task involves creating a multiclass classifier to identify these vegetables, utilizing the provided 
+        dataset with necessary images for the classification task.
+## Dataset Link
+     https://drive.google.com/file/d/1clZX-lV_MLxKHSyeyTheX5OCQtNCUcqT/view?usp=sharing
+## Context
+        • This dataset contains images of the following food items: noise-Indian market and images of vegetables- onion, potato and tomato.
+
+## Concepts Tested:
+        • Dataset Preparation & Visualization
+        • CNN models
+        • Implementing Callbacks
+        • Deal with Overfitting
+        • Transfer Learning
+        • VGG-19
+        • ResNet
+        • MobileNet
+
+
+
+        
