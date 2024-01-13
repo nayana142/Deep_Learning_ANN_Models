@@ -4,7 +4,7 @@
 
 ## About the data :
         • The dataset contains about 10 years of daily weather observations from different locations across Australia. RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or 
-          No? This column is Yes if the rain for that day was 1mm or more..
+          No? This column is Yes if the rain for that day was 1mm or more.
 ## Context :
         • Predict next-day rain by training classification models on the target variable RainTomorrow.
 
@@ -31,7 +31,7 @@
                • Cloud9am : The weather changes about 6 hours
                • Cloud3pm : 6 hours gap in cloudy env data will helpful in prediction.
                • Temp9am : Temperature varien from north to south
-               V Temp3pm : Temperature also varies fom 6 hours time stamp
+               • Temp3pm : Temperature also varies fom 6 hours time stamp
                • RainToday : Rain Today is helpful to predict either its going to rai tomorrow.
                • RainTomorrow : Rain Tomorrow is our target variable to predict the rain in Australia by using above given features.
         
