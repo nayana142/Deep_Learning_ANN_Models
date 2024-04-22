@@ -1,6 +1,7 @@
 # Deeplearning_Case_Studies
 
 # 1. Rain Prediction
+![image](https://github.com/nayana142/Deep_Learning_ANN_Models/assets/120770261/928dcf34-4bfd-4348-b5c0-af20633712d8)
 
 ## About the data :
         • The dataset contains about 10 years of daily weather observations from different locations across Australia. RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or 
